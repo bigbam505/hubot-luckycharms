@@ -2,7 +2,7 @@
   "name": "hubot-luckycharms",
   "version": "0.0.0",
   "description": "A collection of hubot scripts for lucky charms integration",
-  "main": "./lib/luckycharm-scripts.coffee",
+  "main": "./lib/luckycharms-scripts.coffee",
   "directories":{
     "lib": "lib"
   },
