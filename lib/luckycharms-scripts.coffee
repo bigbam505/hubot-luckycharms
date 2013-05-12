@@ -16,4 +16,4 @@
 
 module.exports = (robot) ->
   robot.respond /luckcharms help/i, (msg) ->
-    msg.send 'You have reached help this project is a work in progress, N'joy'
+    msg.send 'You have reached help this project is a work in progress, N\'joy'
