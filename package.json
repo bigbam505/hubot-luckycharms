@@ -1,0 +1,19 @@
+{
+  "name": "hubot-luckycharms",
+  "version": "0.0.0",
+  "description": "A collection of hubot scripts for lucky charms integration",
+  "main": "./lib/luckycharm-scripts.coffee",
+  "directories":{
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bigbam505/hubot-luckycharms.git"
+  },
+  "keywords": [
+    "luckycharms",
+    "hubot"
+  ],
+  "author": "Brent Montague <brent@bmontague.com>",
+  "license": "MIT"
+}
